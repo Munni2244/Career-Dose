@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    
+}
+.blog{
+    display: flex;
+    justify-content: center;
+   
+}
+.blog img{
+    width: 80%;
+    height: 33.4%;
+}
